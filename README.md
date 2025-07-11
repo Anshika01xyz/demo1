@@ -1,2 +1,2 @@
-# demo1
-First repository
+# amazone clone
+
